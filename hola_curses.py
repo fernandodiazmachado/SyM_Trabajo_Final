@@ -6,7 +6,7 @@ def main(stdscr):
 	# Clear screen
 	stdscr.clear()
 	
-	s = "Hola ultimo trabajo 2"	
+	s = "GRUPO 3"	
 	for i in range(len(s)):
 		stdscr.addstr(i, i, s[i])
 

@@ -6,7 +6,7 @@ def main(stdscr):
 	# Clear screen
 	stdscr.clear()
 	
-	s = "GRUPO 3"	
+	s = "Rama dev"	
 	for i in range(len(s)):
 		stdscr.addstr(i, i, s[i])
 

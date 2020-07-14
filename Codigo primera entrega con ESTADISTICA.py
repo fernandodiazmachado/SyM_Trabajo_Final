@@ -311,4 +311,3 @@ estadistica = Estadistica()
 sistema = Sistema(lamda,lstSistema, estadistica)
 sistema.procesar()
 print("PASO TODOS LOS METODOS")
-
